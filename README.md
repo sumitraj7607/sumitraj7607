@@ -1,40 +1,70 @@
 👋 Hi, I'm Sumit Raj
-🚀 Web Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
+💻 Software Developer | 🐍 Python Developer | ⚡ FastAPI | 🤖 WhatsApp Chatbot Developer
 
-I'm a passionate Web Developer who loves building clean, responsive, and user-friendly web experiences. I enjoy turning ideas into real-world projects and continuously improving my skills by learning new technologies.
+I'm a Software Developer passionate about building reliable, scalable, and practical software solutions. I primarily work with Python and FastAPI, and I've also worked on WhatsApp chatbots and automation-based solutions.
+
+I enjoy solving real-world problems through code, designing APIs, integrating services, and continuously exploring new technologies.
 
 👨‍💻 About Me
-🔭 Currently working on Web Development Projects
-🌱 Currently learning Advanced Web Development & Modern Technologies
-💡 Interested in Frontend, Backend & Full-Stack Development
-🤝 Looking to collaborate on Open Source & Interesting Web Projects
-💬 Ask me about HTML, CSS, JavaScript & Web Development
-📫 Reach me through my social profiles below
-⚡ Fun fact: I love turning coffee ☕ into code 💻
+💼 Currently working as a Software Developer
+🐍 Experienced with Python
+⚡ Building backend services and APIs using FastAPI
+🤖 Worked on WhatsApp Chatbots & Automation
+🔌 Interested in REST APIs, Backend Development & Integrations
+🧩 Enjoy working on real-world software solutions
+🌱 Continuously learning and improving my development skills
+🤝 Open to collaborating on interesting Backend, Python & Automation projects
+💬 Ask me about Python, FastAPI, APIs, Chatbots & Backend Development
+⚡ Fun fact: I enjoy turning complex problems into simple solutions.
 🛠️ Tech Stack
-🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
-⚙️ Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p>
-🔧 Tools & Technologies
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p>
-🚀 What I'm Currently Doing
-💻 Building web projects
-📚 Learning new technologies
-🐛 Debugging & solving problems
-🌎 Exploring open source
-🚀 Improving my development skills
+🐍 Programming & Backend
+<p> <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" /> </p>
+🌐 Web & APIs
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,postman" /> </p>
+🗄️ Database & Storage
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /> </p>
+🔧 Tools & Development
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /> </p>
+💼 Professional Experience
+Software Developer
 
+Currently working as a Software Developer, contributing to real-world software projects and backend solutions.
+
+My work includes:
+
+🐍 Developing applications using Python
+⚡ Building APIs and backend services with FastAPI
+🤖 Developing and integrating WhatsApp Chatbots
+🔗 Working with REST APIs & third-party integrations
+🗄️ Working with databases and data management
+🧪 Testing and debugging applications
+🚀 Improving application functionality and reliability
+🔧 Maintaining and enhancing existing software solutions
+🤖 What I Build
+🐍 Python Applications
+⚡ FastAPI Backend Services
+🔗 REST APIs & Integrations
+🤖 WhatsApp Chatbots
+⚙️ Automation Solutions
+🗄️ Database-driven Applications
+💻 Web-based Software Solutions
+
+🚀 Currently Exploring
+⚡ Advanced FastAPI
+🐍 Python Backend Development
+🤖 Chatbot & Conversational Systems
+🔌 API Integrations
+🐳 Docker & Deployment
+☁️ Cloud & Scalable Backend Architecture
+🧠 AI-powered Applications
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumitraj7607&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitraj7607&theme=tokyonight&hide_border=true" height="170"/> </p>
 📈 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitraj7607&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🤝 Connect With Me
+🌐 Connect With Me
 <p align="left"> <a href="https://github.com/sumitraj7607"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-🐍 Contribution Graph
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
+⭐ Profile
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sumitraj7607&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 💙 Thanks for visiting my profile!
 
-⭐ If you like my work, consider giving my repositories a star!
-
-"Code. Learn. Build. Repeat. 🚀"
+Build. Learn. Solve. Repeat. 🚀
